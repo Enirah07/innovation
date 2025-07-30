@@ -1,0 +1,2 @@
+this is my 2nd class
+learned how to initialize git with the file created
